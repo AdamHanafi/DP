@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://cashflownegative.io"
+baseURL = ""
 languageCode = "en-us"
 title = "Home | Middlemanned"
 theme = "hargo"
